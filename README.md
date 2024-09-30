@@ -1,0 +1,2 @@
+# Ms Configurations Lite edition
+
